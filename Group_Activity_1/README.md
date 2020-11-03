@@ -14,14 +14,12 @@ Design a pipeline for this problem statement. Showcase the outcomes of step in t
 5. Using cosine vectorizer to compare.
 6. If similar words repeated and similar writing style, it's the same person.
 
-## Top Language
 
-[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/NLP-Tasks?logo=jupyter&style=social)](https://github.com/akshatvg/)
 
 ## Instructions to Run
 1.
 ```bash
-$ git clone https://github.com/akshatvg/NLP-Tasks
+$ git clone 
 $ cd NLP-Tasks
 $ mkdir Datasets && cd Datasets
 ```
@@ -40,11 +38,8 @@ $ cd .. && jupyter-notebook
 ## Need help?
 
 
-Feel free to contact me via [Facebook](https://www.facebook.com/akshatvg).
+Invite me to connect on [LinkedIn](https://www.linkedin.com/in/sanyamidha/).
 
-Invite me to connect on [LinkedIn](https://www.linkedin.com/in/akshatvg/).
-
-[![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/akshatvg) [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/Akshat-Gupta-279) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/akshatvg/) [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/akshatvg) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@akshatvg)
 
 
 ```bash
@@ -81,13 +76,7 @@ ______      _               _   _               _
 
 ```
 
-## License
 
-**MIT &copy; [Akshat Gupta](https://github.com/akshatvg/NLP-Tasks/blob/master/LICENSE)**
-
-[![GitHub license](https://img.shields.io/github/license/akshatvg/NLP-Tasks?style=social&logo=github)](https://github.com/akshatvg/NLP-Tasks/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
-
----------
 
 ```javascript
 
